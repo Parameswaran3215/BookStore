@@ -39,6 +39,8 @@ http://localhost:8080/bookservice/books
     "pages": 1000,
     "price": 1500
   }
+  ![POST Method](https://user-images.githubusercontent.com/88793028/131860156-4e633a9e-08f4-4569-91b8-69e27cb8c232.PNG)
+  
 9.To get a particular book, use following url with GET request type in postman
 
  http://localhost:8080/bookservice/books/<id>
