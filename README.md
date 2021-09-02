@@ -43,6 +43,8 @@ http://localhost:8080/bookservice/books
   ![POST Method](https://user-images.githubusercontent.com/88793028/131860156-4e633a9e-08f4-4569-91b8-69e27cb8c232.PNG)
   POST in URL
   ![POST url](https://user-images.githubusercontent.com/88793028/131860239-2f1572b0-2d4e-4424-a7d6-1766f3a87443.PNG)
+  CREATE sql
+  ![POST sql](https://user-images.githubusercontent.com/88793028/131860260-03f77853-5677-4de1-8f96-2b5a30aa0121.PNG)
   
 9.To get a particular book, use following url with GET request type in postman
 
