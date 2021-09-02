@@ -61,5 +61,9 @@ http://localhost:8080/bookservice/books
 11.To delete a particular Book from database, use following url with DELETE request type in postman
 
  http://localhost:8080/bookservice/books/<id>
+  DELETE in POSTMAN
+  ![DELETE postman](https://user-images.githubusercontent.com/88793028/131862059-e969e215-366d-4861-b56d-49bb39c79ec5.PNG)
+  
+  DELETE in POSTMAN
 
  * Note - Replace <id> with actual id
