@@ -64,6 +64,7 @@ http://localhost:8080/bookservice/books
   DELETE in POSTMAN
   ![DELETE postman](https://user-images.githubusercontent.com/88793028/131862059-e969e215-366d-4861-b56d-49bb39c79ec5.PNG)
   
-  DELETE in POSTMAN
+  DELETE in sql
+  ![DELETE sql](https://user-images.githubusercontent.com/88793028/131862117-39b10c2d-fdd4-44bc-b2f9-45e7ca92c1aa.PNG)
 
  * Note - Replace <id> with actual id
