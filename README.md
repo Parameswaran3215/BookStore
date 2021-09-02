@@ -38,8 +38,11 @@ http://localhost:8080/bookservice/books
     "category": "Java Programming",
     "pages": 1000,
     "price": 1500
-  }
+  } 
+  POST in POSTMAN tool
   ![POST Method](https://user-images.githubusercontent.com/88793028/131860156-4e633a9e-08f4-4569-91b8-69e27cb8c232.PNG)
+  POST in URL
+  ![POST url](https://user-images.githubusercontent.com/88793028/131860239-2f1572b0-2d4e-4424-a7d6-1766f3a87443.PNG)
   
 9.To get a particular book, use following url with GET request type in postman
 
