@@ -4,7 +4,7 @@ Spring-Boot-REST-JPA-MySQL (BookStore)
 Import project into eclipse
 File -> Import -> Maven -> Existing Maven Projects -> Browse Project from cloned location
 
-Right click on project in eclipse and then Maven -> Update Projects
+Right click on project in eclipse and then Maven -> Update Projects![Eclipse output](https://user-images.githubusercontent.com/88793028/131848170-86d5e9e7-720e-40a1-835b-d591bd45f42c.PNG)
 
 Import src/main/java/resources/book.sql into MySQL database
 
