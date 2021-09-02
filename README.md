@@ -4,7 +4,7 @@ Spring-Boot-REST-JPA-MySQL (BookStore)
 Import project into eclipse
 File -> Import -> Maven -> Existing Maven Projects -> Browse Project from cloned location
 
-Right click on project in eclipse and then Maven -> Update Projects![Eclipse output](https://user-images.githubusercontent.com/88793028/131848170-86d5e9e7-720e-40a1-835b-d591bd45f42c.PNG)
+Right click on project in eclipse and then Maven -> Update Projects
 
 Import src/main/java/resources/book.sql into MySQL database
 
@@ -38,14 +38,7 @@ http://localhost:8080/bookservice/books
     "category": "Java Programming",
     "pages": 1000,
     "price": 1500
-  } 
-  POST in POSTMAN tool
-  ![POST Method](https://user-images.githubusercontent.com/88793028/131860156-4e633a9e-08f4-4569-91b8-69e27cb8c232.PNG)
-  POST in URL
-  ![POST url](https://user-images.githubusercontent.com/88793028/131860239-2f1572b0-2d4e-4424-a7d6-1766f3a87443.PNG)
-  CREATE sql
-  ![POST sql](https://user-images.githubusercontent.com/88793028/131860260-03f77853-5677-4de1-8f96-2b5a30aa0121.PNG)
-  
+  }
 9.To get a particular book, use following url with GET request type in postman
 
  http://localhost:8080/bookservice/books/<id>
@@ -64,6 +57,7 @@ http://localhost:8080/bookservice/books
      "pages": 1000,
      "price": 1500
    }
+  ![PUT postman](https://user-images.githubusercontent.com/88793028/131861467-9d561d84-a3ba-49db-83a4-ada97c47220e.PNG)
 11.To delete a particular Book from database, use following url with DELETE request type in postman
 
  http://localhost:8080/bookservice/books/<id>
