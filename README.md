@@ -17,6 +17,7 @@ spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQLDialect spr
 logging.level.org.hibernate.SQL=DEBUG logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
 
 Right click on Application.java file and run as Java Application
+![Eclipse output](https://user-images.githubusercontent.com/88793028/131963303-add85397-3569-4b53-b044-8d8a94146ad0.PNG)
 
 Once Sprint Boot Application will be started successfully then we can call following Endpoints by using POSTMAN
 
